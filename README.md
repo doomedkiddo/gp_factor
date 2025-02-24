@@ -1,0 +1,2 @@
+genetic_factor_miner.py 用于gp挖因子，depends on hft_pipeline.py
+hft_pipeline用于生成train.feather，包含了gp的base feature，以来每日的snapshot的feather
